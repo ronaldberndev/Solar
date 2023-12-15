@@ -29,7 +29,7 @@ class _AppWidgetState extends State<AppWidget> {
           return const Material(
             child: Center(
               child: Text(
-                'Oops, Unexpected error! :/',
+                'Oops, Fix error! :/',
                 textDirection: TextDirection.ltr,
               ),
             ),
